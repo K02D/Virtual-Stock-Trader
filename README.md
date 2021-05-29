@@ -8,3 +8,5 @@ Features:
 4. Can update the prices of all stocks to their latest value by a single click
 5. Can store multiple accounts using a database
 6. Each user can view the history of all transactions made from their account 
+
+Video demonstration: https://youtu.be/dSsOfi2SKQY
