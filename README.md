@@ -10,3 +10,5 @@ Features:
 6. Each user can view the history of all transactions made from their account 
 
 Video demonstration: https://youtu.be/dSsOfi2SKQY
+
+Completed as a part of <a href="https://cs50.harvard.edu/x/2020/">CS50x</a>.
